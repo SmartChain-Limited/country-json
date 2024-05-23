@@ -2,6 +2,7 @@
   {
     "name": "Abia",
     "cities": [
+      "Aba North",
       "Aba South",
       "Arochukwu",
       "Bende",
@@ -23,11 +24,12 @@
   {
     "name": "Adamawa",
     "cities": [
-      "Fufure",
+      "Fufore",
       "Ganye",
-      "Gayuk",
+      "Guyuk",
+      "Demsa",
       "Gombi",
-      "Grie",
+      "Girei",
       "Hong",
       "Jada",
       "Lamurde",
@@ -48,6 +50,7 @@
   {
     "name": "Akwa Ibom",
     "cities": [
+      "Abak",  
       "Eastern Obolo",
       "Eket",
       "Esit Eket",
@@ -83,6 +86,7 @@
   {
     "name": "Anambra",
     "cities": [
+      "Aguata" , 
       "Anambra East",
       "Anambra West",
       "Anaocha",
@@ -110,7 +114,7 @@
     "cities": [
       "Bauchi",
       "Bogoro",
-      "Damban",
+      "Dambam",
       "Darazo",
       "Dass",
       "Gamawa",
@@ -120,6 +124,7 @@
       "Jama'are",
       "Katagum",
       "Kirfi",
+      "Alkaleri",
       "Misau",
       "Ningi",
       "Shira",
@@ -132,6 +137,7 @@
   {
     "name": "Bayelsa",
     "cities": [
+      "Brass",  
       "Ekeremor",
       "Kolokuma/Opokuma",
       "Nembe",
@@ -146,6 +152,7 @@
     "cities": [
       "Apa",
       "Ado",
+      "Agatu",
       "Buruku",
       "Gboko",
       "Guma",
@@ -171,6 +178,7 @@
   {
     "name": "Borno",
     "cities": [
+      "Abadam",  
       "Askira/Uba",
       "Bama",
       "Bayo",
@@ -202,6 +210,7 @@
   {
     "name": "Cross River",
     "cities": [
+      "Abi",
       "Akamkpa",
       "Akpabuyo",
       "Bakassi",
@@ -224,6 +233,7 @@
   {
     "name": "Delta",
     "cities": [
+      "Aniocha North",  
       "Aniocha South",
       "Bomadi",
       "Burutu",
@@ -253,6 +263,7 @@
   {
     "name": "Ebonyi",
     "cities": [
+      "Abakaliki",  
       "Afikpo North",
       "Afikpo South",
       "Ebonyi",
@@ -270,6 +281,7 @@
   {
     "name": "Edo",
     "cities": [
+      "Akoko-Edo",  
       "Egor",
       "Esan Central",
       "Esan North-East",
@@ -292,6 +304,7 @@
   {
     "name": "Ekiti",
     "cities": [
+      "Ado-Ekiti",  
       "Efon",
       "Ekiti East",
       "Ekiti South-West",
@@ -312,6 +325,7 @@
   {
     "name": "Enugu",
     "cities": [
+      "Aninri",  
       "Awgu",
       "Enugu East",
       "Enugu North",
@@ -332,11 +346,12 @@
   },
   {
     "name": "FCT",
-    "cities": ["Bwari", "Gwagwalada", "Kuje", "Kwali", "Municipal Area Council"]
+    "cities": ["Asokoro", "Garki", "Maitama", "Wuse", "Kado", "Bwari", "Durumi", "Gwagwalada", "Jabi", "Mabushi", "Abaji", "Gudu", "Katampe", "Gwarinpa", "Lugbe", "Kuje", "Kwali", "Municipal Area Council"]
   },
   {
     "name": "Gombe",
     "cities": [
+      "Akko",  
       "Balanga",
       "Billiri",
       "Dukku",
@@ -352,6 +367,7 @@
   {
     "name": "Imo",
     "cities": [
+      "Aboh Mbaise",  
       "Ahiazu Mbaise",
       "Ehime Mbano",
       "Ezinihitte",
@@ -383,6 +399,7 @@
   {
     "name": "Jigawa",
     "cities": [
+      "Auyo",  
       "Babura",
       "Biriniwa",
       "Birnin Kudu",
@@ -414,6 +431,7 @@
   {
     "name": "Kaduna",
     "cities": [
+      "Birni Gwari"  
       "Chikun",
       "Giwa",
       "Igabi",
@@ -441,6 +459,7 @@
   {
     "name": "Kano",
     "cities": [
+      "Ajingi",  
       "Albasu",
       "Bagwai",
       "Bebeji",
@@ -489,6 +508,7 @@
   {
     "name": "Katsina",
     "cities": [
+      "Bakori",  
       "Batagarawa",
       "Batsari",
       "Baure",
@@ -527,6 +547,7 @@
   {
     "name": "Kebbi",
     "cities": [
+      "Aleiro",  
       "Arewa Dandi",
       "Argungu",
       "Augie",
@@ -552,6 +573,7 @@
   {
     "name": "Kogi",
     "cities": [
+      "Adavi",  
       "Ajaokuta",
       "Ankpa",
       "Bassa",
@@ -577,6 +599,7 @@
   {
     "name": "Kwara",
     "cities": [
+      "Asa",  
       "Baruten",
       "Edu",
       "Ekiti",
@@ -597,6 +620,7 @@
   {
     "name": "Lagos",
     "cities": [
+      "Agege",  
       "Ajeromi-Ifelodun",
       "Alimosho",
       "Amuwo-Odofin",
@@ -621,6 +645,7 @@
   {
     "name": "Nasarawa",
     "cities": [
+      "Akwanga",  
       "Awe",
       "Doma",
       "Karu",
@@ -638,6 +663,7 @@
   {
     "name": "Niger",
     "cities": [
+      "Agaie",  
       "Agwara",
       "Bida",
       "Borgu",
@@ -667,6 +693,7 @@
   {
     "name": "Ogun",
     "cities": [
+      "Abeokuta North",  
       "Abeokuta South",
       "Ado-Odo/Ota",
       "Egbado North",
@@ -691,6 +718,7 @@
   {
     "name": "Ondo",
     "cities": [
+      "Akoko North-East",  
       "Akoko North-West",
       "Akoko South-West",
       "Akoko South-East",
@@ -713,6 +741,7 @@
   {
     "name": "Osun",
     "cities": [
+      "Atakunmosa East",  
       "Atakunmosa West",
       "Aiyedaade",
       "Aiyedire",
@@ -748,6 +777,7 @@
     "name": "Oyo",
     "cities": [
       "Akinyele",
+      "Afijio",
       "Atiba",
       "Atisbo",
       "Egbeda",
@@ -794,9 +824,10 @@
       "Langtang South",
       "Langtang North",
       "Mangu",
+      "Bokkos",
       "Mikang",
       "Pankshin",
-      "Qua'an Pan",
+      "Quai`an-Pam",
       "Riyom",
       "Shendam",
       "Wase"
@@ -808,6 +839,7 @@
       "Ahoada East",
       "Ahoada West",
       "Akuku-Toru",
+      "Abua-Odual",
       "Andoni",
       "Asari-Toru",
       "Bonny",
@@ -832,6 +864,7 @@
   {
     "name": "Sokoto",
     "cities": [
+      "Binji",  
       "Bodinga",
       "Dange Shuni",
       "Gada",
@@ -859,6 +892,7 @@
   {
     "name": "Taraba",
     "cities": [
+      "Ardo Kola",  
       "Bali",
       "Donga",
       "Gashaka",
@@ -879,6 +913,7 @@
   {
     "name": "Yobe",
     "cities": [
+      "Bade",  
       "Bursari",
       "Damaturu",
       "Fika",
@@ -900,8 +935,9 @@
   {
     "name": "Zamfara",
     "cities": [
+      "Anka",  
       "Bakura",
-      "Birnin Magaji/Kiyaw",
+      "Birin Magaji/Kiyaw",
       "Bukkuyum",
       "Bungudu",
       "Gummi",
